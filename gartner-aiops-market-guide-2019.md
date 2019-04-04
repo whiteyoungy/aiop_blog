@@ -33,7 +33,7 @@ AIOps可以增强广泛的IT运营流程和任务，包括性能分析、异常�
 根据分析结果启动操作或下一步
 分析工作的目标是发现模式(用于预测可能的事件和新出现的使用情况的新颖元素)和及时回看以确定当前系统行为的根本原因（参见图1）。
  
-![](images/gartner-aiops-market-guide-2019/1.jpg)
+ {% asset_image 1.jpg %}
 
 图1. AIOps对IT Operations Management (ITOM)实现持续洞察
 资料来源：Gartner（2018年11月）
