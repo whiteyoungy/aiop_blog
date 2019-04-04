@@ -80,7 +80,7 @@ AIOps工具显示了“右向”跨越的监控四个阶段： 数据采集、�
  
 关于监控工具与AIOps的争论刚刚开始，而且可能会增长。然而，从长远来看，领域专家将存在监控工具，而对于日常的IT运营，AIOps将是主要的工具。
 
-![](images/gartner-aiops-market-guide-2019/2.jpg)
+ {% asset_image 2.jpg %}
 
 图2. 监控的四个阶段
 资料来源：Gartner（2018年11月）
@@ -219,7 +219,7 @@ India
  
 选择能够支持广泛的历史和流数据类型的AIOps平台
 现代IT运营旨在获得IT实体的综合可见性，包括应用程序，它们的关系，相互依赖性和过去的转换，以深入了解整体IT环境的现状。正确的数据源的选择是避免盲点的关键。部署成熟度和不断变化的用例的渐进性需要准备好摄取各种数据源。I＆O领导者必须选择能够摄取和提供对各种历史和流数据类型的访问的AIOps平台（参见图3）。
-![](images/gartner-aiops-market-guide-2019/3.jpg)
+ {% asset_image 3.jpg %}
 图3. AIOps中的摄取数据类型
 资料来源：Gartner（2018年11月）
  
@@ -236,7 +236,7 @@ AIOps平台历史上专注于单个数据源，如日志或指标。不幸的是
  
 选择能够在IT运营导向的分析和机器学习的四个阶段系统地进步的工具
 支持面向IT运营的机器学习的四个阶段的增量部署的工具必须被赋予更高的投资优先级（参见图4）。
-![](images/gartner-aiops-market-guide-2019/4.jpg)
+ {% asset_image 4.jpg %}
 图4. IT运营的四个阶段
 资料来源：Gartner（2018年11月）
  
@@ -277,15 +277,15 @@ IT内外的多个AIOps用例有助于可视化，决策和诊断
 一、日志产品：
 
 仪表盘：
-![](images/gartner-aiops-market-guide-2019/5.jpg)
+ {% asset_image 5.jpg %}
 
 日志搜索及模式比较：
-![](images/gartner-aiops-market-guide-2019/6.jpg)
+ {% asset_image 6.jpg %}
  
 二、异常检测产品：
 
 异常标注：
-![](images/gartner-aiops-market-guide-2019/7.jpg)
+ {% asset_image 7.jpg %}
 
 检测结果：
-![](images/gartner-aiops-market-guide-2019/8.jpg)
+ {% asset_image 8.jpg %}
