@@ -115,103 +115,32 @@ AIOps平台供应商拥有广泛的能力，并持续增长。供应商的数据
 在表1中，我们提供了提供AIOps平台功能的供应商的代表性示例列表。
  
 表1 ：代表性供应商
-供应商
-创历年份
-国家
-网址
-Anodot
-2014
-Israel
- https://www.anodot.com/
-BigPanda
-2014
-United States
- https://www.bigpanda.io
-BMC
-1980
-United States
- https://www.bmc.com/
-Brains Technology
-2008
-Japan
- https://www.brains-tech.co.jp/en/
-CA Technologies
-1974
-United States
- https://www.ca.com/us.html
-Devo (Logtrust)
-2011
-United States
- https://www.devo.com/
 
-Elastic
-2012
-United States
- https://www.elastic.co/
-Evolven
-2007
-United States
- https://www.evolven.com/
-FixStream
-2013
-United States
- https://fixstream.com/
-IBM
-1911
-United States
- www.ibm.com
-InfluxData
-2013
-United States
- https://www.influxdata.com/
-ITRS
-1993
-United Kingdom
- https://www.itrsgroup.com/
-jKool
-2014
-United States
- https://www.jkoolcloud.com/
-Loom Systems
-2015
-United States
- https://www.loomsystems.com/
-Moogsoft
-2011
-United States
- https://www.moogsoft.com/
-Scalyr
-2012
-United States
- https://www.scalyr.com/
-ScienceLogic
-2003
-United States
- https://sciencelogic.com/
-SignalFx
-2013
-United States
- https://signalfx.com/
-Splunk
-2004
-United States
- https://www.splunk.com/
-Stackstate
-2015
-Netherlands
- https://www.stackstate.com/
-Sumo Logic
-2010
-United States
- https://www.sumologic.com/
-VNT Software
-2010
-Israel
- http://www.vnt-software.com/
-VuNet
-2014
-India
- http://www.vunetsystems.com/
+| 供应商 | 创历年份 | 国家 |网址 | 
+| :------| :------: | :------: | :------ |
+| Anodot  | 2014 |Israel | https://www.anodot.com/ |
+| BigPanda | 2014 |  United States |  https://www.bigpanda.io |
+| BMC | 1980 | United States |  https://www.bmc.com/ |
+| Brains Technology | 2008 | Japan | https://www.brains-tech.co.jp/en/  |
+|CA Technologies | 1974 | United States | https://www.ca.com/us.html |
+| Devo (Logtrust) | 2011 | United States | https://www.devo.com/ |
+| Elastic | 2012 | United States | https://www.elastic.co/ |
+| Evolven | 2007 | United States | https://www.evolven.com/ |
+| FixStream |2013 |United States | https://fixstream.com/ |
+| IBM |1911 | United States | www.ibm.com |
+| InfluxData | 2013 | United States| https://www.influxdata.com/ |
+| ITRS |1993 |United Kingdom | https://www.itrsgroup.com/ |
+| jKool | 2014 | United States | https://www.jkoolcloud.com/ |
+| Loom Systems |2015 |United States | https://www.loomsystems.com/ |
+| Moogsoft |2011 | United States | https://www.moogsoft.com/ |
+| Scalyr | 2012 | United States |  https://www.scalyr.com/ |
+| ScienceLogic | 2003 | United States | https://sciencelogic.com/ |
+| SignalFx | 2013 | United States | https://signalfx.com/ |
+| Splunk | 2004 | United States | https://www.splunk.com/ |
+| Stackstate | 2015 | Netherlands | https://www.stackstate.com/ |
+| Sumo Logic  | 2010 | United States | https://www.sumologic.com/ |
+| VNT Software | 2010 | Israel | http://www.vnt-software.com/ |
+| VuNet | 2014 | India | http://www.vunetsystems.com/ |
  
 市场建议
 通过采用增量方法确保成功部署AIOps功能
